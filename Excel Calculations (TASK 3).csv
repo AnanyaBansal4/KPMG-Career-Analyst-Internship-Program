@@ -1,0 +1,19 @@
+Row Labels,Sum of Gross Sales,
+AL,466221,
+CT,4748335,
+DE,4017740,
+FL,11513810,
+MI,126508,
+MN,3897738,
+NY,11956015.5,
+OH,18709555.5,
+PA,6059408,PA Sales
+TX,9265658,
+VA,23828794.5,
+WI,4781028,
+Grand Total,99370811.5,Total Sales
+,,
+,,
+PA Apportionment Percentage (2022 projected = same as 2020),6.097774496,PA Sales/Total Sales
+PA Taxable Income 2022 (in million dollars),243.9109798,40*PA Apportionment Percentage
+PA Tax Liability 2022 (million dollars),24.36670689,0.0999*PA Taxable Income
